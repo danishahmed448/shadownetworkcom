@@ -1,0 +1,67 @@
+body{
+    background: url("https://wallpaperaccess.com/full/33211.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding-top:100px; 
+}
+.navbar{
+    background:transparent;
+    font-family: 'Permanent Marker';
+    font-size: 1.2rem;
+    font-weight: 400;
+    text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+                 0px 8px 13px rgba(0,0,0,0.1),
+                 0px 18px 23px rgba(0,0,0,0.1);
+}
+
+#youtube{
+    color: red;
+}
+#discord{
+    color: #7289da;
+}
+#home{
+    color: whitesmoke;
+}
+.card{
+    background-color: rgba(22, 20, 20, 0.863);
+    border-width:1px ;
+    border-color: crimson;
+    box-shadow:
+  0 2.8px 2.2px rgba(0, 0, 0, 0.034),
+  0 6.7px 5.3px rgba(0, 0, 0, 0.048),
+  0 12.5px 10px rgba(0, 0, 0, 0.06),
+  0 22.3px 17.9px rgba(0, 0, 0, 0.072),
+  0 41.8px 33.4px rgba(0, 0, 0, 0.086),
+  0 100px 80px rgba(0, 0, 0, 0.12)
+}
+#titlegame{
+    color: white;
+    font-family: 'Permanent Marker';
+}
+h6{
+    font-size: small;
+    color: rgb(238, 255, 0);
+}
+#device{
+    font-size: small;
+    color: rgb(0, 217, 255);
+}
+h5{
+    color:rgb(255, 255, 255);
+}
+#dropbuy{
+    padding: 0px 0px;
+    background-color: crimson;
+}
+#dropdownload{
+    padding: 0px 0px;
+    background-color: rgb(72, 253, 0);
+}
+#hh{
+    font-weight: 500;
+}
+.card-body{
+    padding:12px;
+}
